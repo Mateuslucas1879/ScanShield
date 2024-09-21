@@ -20,7 +20,7 @@ Este projeto é um scanner de vulnerabilidades que utiliza a biblioteca `nmap` p
 3. Clique em "Start Scan" para iniciar a varredura.
 
 ## Exemplo de Uso
-`bash
+
 python scanner.py
 
 
@@ -36,5 +36,8 @@ Você pode instalar as bibliotecas necessárias com o seguinte comando:
 
 ```bash
 pip install python-nmap requests fpdf
+
+
+
 
 
