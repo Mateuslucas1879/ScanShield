@@ -21,7 +21,10 @@ Este projeto é um scanner de vulnerabilidades que utiliza a biblioteca `nmap` p
 
 ## Exemplo de Uso
 
-python scanner.py
+Host - 192.168.1.100
+Port Range - 1-1024
+Max Workers - 5
+Interval -60
 
 
 ## Dependências
